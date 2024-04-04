@@ -1,5 +1,5 @@
 import logo from "../assets/logo.svg";
-import { NavLink } from "./nav-link";
+import { NavLink } from "./table/nav-link";
 
 export function Header() {
   return (
